@@ -1,54 +1,54 @@
 ﻿@using FinalPrject.Models.TraineeVm
 @model TraineeCreateVm
-@{ 
-    Layout = "~/Views/Shared/_Layout.cshtml";
+@{
+    Layout = "";
 }
 <!Doctype html>
 <html>
-    <head>
+<head>
 
-    </head>
-    <body>
-        <form method="Post">
-            <select asp-for="DepartmentId" asp-items="@Model.DepartmentLookUpData">
-                <option>Select....</option>
-            </select>
+</head>
+<body>
+    <form method="Post">
+        <select asp-for="DepartmentId" asp-items="@Model.DepartmentLookUpData">
+            <option>Select....</option>
+        </select>
 
-            <p>Name:<input asp-for="Name" type="text" id="Name" name="Name" /></p>
-            <p>RegNo:<input asp-for="RegNo" type="text" id="RegNo" name="RegNo" /></p>
-            <p>Email:<input asp-for="Email" type="text" id="Email" name="Email" /></p>
-            <p>Address:<input asp-for="Address" type="text" id="Address" name="Address" /></p>
-            <p>Name:<input type="submit" value="Save" /></p>
-        </form>
-        <div id="div_trainilist">
-            <table>
-                <thead>
+        <p>Name:<input asp-for="Name" type="text" id="Name" name="Name" /></p>
+        <p>RegNo:<input asp-for="RegNo" type="text" id="RegNo" name="RegNo" /></p>
+        <p>Email:<input asp-for="Email" type="text" id="Email" name="Email" /></p>
+        <p>Address:<input asp-for="Address" type="text" id="Address" name="Address" /></p>
+        <p>Name:<input type="submit" value="Save" /></p>
+    </form>
+    <div id="div_trainilist">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>RegNo</th>
+                    <th>Email</th>
+                    <th>Address</th>
+                    <th>Department</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var trainee in Model.TraineeList)
+                {
                     <tr>
-                        <th>Name</th>
-                        <th>RegNo</th>
-                        <th>Email</th>
-                        <th>Address</th>
-                        <th>Department</th>
+                        <td>@trainee.Name</td>
+                        <td>@trainee.RegNo</td>
+                        <td>@trainee.Email</td>
+                        <td>@trainee.Address</td>
+                        <td>@trainee.Department.DeptName</td>
                     </tr>
-                </thead>
-                <tbody>
-                    @foreach (var trainee in Model.TraineeList)
-                    {
-                        <tr>
-                            <td>@trainee.Name</td>
-                            <td>@trainee.RegNo</td>
-                            <td>@trainee.Email</td>
-                            <td>@trainee.Address</td>
-                            <td>@trainee.Department.DeptName</td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+                }
+            </tbody>
+        </table>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
 
-        <script src="~/Project/Trainee_Entry.js"></script>
+    <script src="~/Project/Trainee_Entry.js"></script>
 
-    </body>
+</body>
 </html>
 

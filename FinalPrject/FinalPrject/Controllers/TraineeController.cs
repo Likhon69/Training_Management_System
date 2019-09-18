@@ -54,6 +54,7 @@ namespace FinalPrject.Controllers
             }
             model.TraineeList = _traineeManager.GetAll();
             model.DepartmentLookUpData = _utilityManager.GetDepartmentLookUpData();
+            
             return View(model);
         }
         public JsonResult GetByDepartmentJsonResult(int departmentId)
