@@ -1,0 +1,27 @@
+﻿@using TrainingManagement.Model;
+@model ICollection<Trainee>
+
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Reg No</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var trainee in Model)
+            {
+                <tr>
+                    <td>@trainee.Name</td>
+                    <td>@trainee.RegNo</td>
+                    <td>@trainee.Department.DeptName</td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+

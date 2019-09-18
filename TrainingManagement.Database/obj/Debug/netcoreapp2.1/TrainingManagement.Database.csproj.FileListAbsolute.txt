@@ -1,0 +1,14 @@
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Database.deps.json
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Database.runtimeconfig.json
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Database.runtimeconfig.dev.json
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Database.dll
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Database.pdb
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Model.dll
+F:\New\TrainingManagement.Database\bin\Debug\netcoreapp2.1\TrainingManagement.Model.pdb
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.csprojAssemblyReference.cache
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.csproj.CoreCompileInputs.cache
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.AssemblyInfoInputs.cache
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.AssemblyInfo.cs
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.csproj.CopyComplete
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.dll
+F:\New\TrainingManagement.Database\obj\Debug\netcoreapp2.1\TrainingManagement.Database.pdb

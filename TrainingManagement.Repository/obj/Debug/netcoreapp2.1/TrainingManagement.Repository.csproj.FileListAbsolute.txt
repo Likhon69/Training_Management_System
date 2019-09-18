@@ -1,0 +1,14 @@
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.deps.json
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.dll
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.pdb
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Database.dll
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Model.dll
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Database.pdb
+F:\New\TrainingManagement.Repository\bin\Debug\netcoreapp2.1\TrainingManagement.Model.pdb
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.csprojAssemblyReference.cache
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.csproj.CoreCompileInputs.cache
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.AssemblyInfoInputs.cache
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.AssemblyInfo.cs
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.csproj.CopyComplete
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.dll
+F:\New\TrainingManagement.Repository\obj\Debug\netcoreapp2.1\TrainingManagement.Repository.pdb

@@ -1,0 +1,16 @@
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.csprojAssemblyReference.cache
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.csproj.CoreCompileInputs.cache
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.AssemblyInfoInputs.cache
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.AssemblyInfo.cs
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Manager.deps.json
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Manager.dll
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Manager.pdb
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Database.dll
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Model.dll
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.dll
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.pdb
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Database.pdb
+F:\New\TrainingManagement.Manager\bin\Debug\netcoreapp2.1\TrainingManagement.Model.pdb
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.csproj.CopyComplete
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.dll
+F:\New\TrainingManagement.Manager\obj\Debug\netcoreapp2.1\TrainingManagement.Manager.pdb

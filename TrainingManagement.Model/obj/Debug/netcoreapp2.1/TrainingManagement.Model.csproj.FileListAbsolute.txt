@@ -1,0 +1,9 @@
+F:\New\TrainingManagement.Model\bin\Debug\netcoreapp2.1\TrainingManagement.Model.deps.json
+F:\New\TrainingManagement.Model\bin\Debug\netcoreapp2.1\TrainingManagement.Model.dll
+F:\New\TrainingManagement.Model\bin\Debug\netcoreapp2.1\TrainingManagement.Model.pdb
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.csproj.CoreCompileInputs.cache
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.AssemblyInfoInputs.cache
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.AssemblyInfo.cs
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.dll
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.pdb
+F:\New\TrainingManagement.Model\obj\Debug\netcoreapp2.1\TrainingManagement.Model.csprojAssemblyReference.cache
