@@ -59,10 +59,12 @@ namespace FinalPrject.Controllers
         }
         public JsonResult GetByDepartmentJsonResult(int departmentId)
         {
-            var traineeList = _traineeManager.GetByDepartment(departmentId);
-            return Json(traineeList);
 
+            var traineeList = _traineeManager.GetByDepartment(departmentId);
+           return Json(traineeList);
         }
+
+        
         public PartialViewResult GetByDepartmentPartial(int departmentId)
         {
             var traineeList = _traineeManager.GetByDepartment(departmentId);

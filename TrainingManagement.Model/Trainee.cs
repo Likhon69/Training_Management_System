@@ -15,8 +15,10 @@ namespace TrainingManagement.Model
         }
         public int Id { get; set; }
         [Required]
+        [Display(Name ="FullName")]
         public string Name { get; set; }
         [Required]
+        [Display(Name ="Registration No")]
         public string RegNo { get; set; }
         [Required]
         public string Email { get; set; }

@@ -15,5 +15,10 @@ namespace TrainingManagement.Manager
         {
             _departmentRepository = repository;
         }
+        public override ICollection<Department> GetAll()
+        {
+            var departments = _departmentRepository.GetAll();
+            return departments;
+        }
     }
 }

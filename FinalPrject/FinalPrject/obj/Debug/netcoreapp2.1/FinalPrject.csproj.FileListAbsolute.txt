@@ -40,3 +40,4 @@ F:\New\FinalPrject\FinalPrject\bin\Debug\netcoreapp2.1\TrainingManagement.Reposi
 F:\New\FinalPrject\FinalPrject\bin\Debug\netcoreapp2.1\TrainingManagement.Manager.pdb
 F:\New\FinalPrject\FinalPrject\bin\Debug\netcoreapp2.1\TrainingManagement.Repository.pdb
 F:\New\FinalPrject\FinalPrject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TraineeList.g.cshtml.cs
+F:\New\FinalPrject\FinalPrject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Course.g.cshtml.cs

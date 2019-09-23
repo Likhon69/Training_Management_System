@@ -1,1 +1,40 @@
 ﻿
+<!Doctype html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+    <form method="post" action="/Home/Course" enctype="multipart/form-data">
+        <div class="Container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="CourseImage" id="CourseImage" class="col-md-4">Course Image</label>
+                        <div class="col-md-8">
+                            <input type="file" name="image" />
+                        </div>
+
+                    </div>
+                    <div class="form-group row">
+
+                        <label for="fName" name="fName" class="col-md-4">Name</label>
+                        <div class="col-md-8">
+                        <input type="text" name="fName" />
+                        </div>
+
+                    </div>
+                    <div class="form-group row">
+
+
+                        <input type="submit" value="Save" class="btn btn btn-success" />
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
